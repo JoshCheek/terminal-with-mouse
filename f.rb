@@ -1,3 +1,5 @@
+# Terminal Mouse info documented here
+# http://www.x.org/docs/xterm/ctlseqs.pdf
 require 'io/console'
 $stdin.raw do
 
